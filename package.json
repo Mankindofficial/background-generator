@@ -1,7 +1,7 @@
 {
   "name": "background-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A project that generates cool background randomly when reloaded and based on the user input",
   "main": "script.js",
   "scripts": {
     "bundle": "browserify script.js > bundle.js && live-server",
